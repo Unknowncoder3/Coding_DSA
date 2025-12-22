@@ -1,19 +1,31 @@
 
+# 📚 Coding DSA — Core Programming & Problem Solving
 
-# 📚 Coding DSA
+Welcome to **Coding DSA** 👋
+This repository documents my **structured practice of programming fundamentals and Data Structures & Algorithms (DSA)** using Python.
 
-Welcome to the **Coding DSA** repository! This repository is a collection of Python programs demonstrating **basic and essential Data Structures & Algorithms (DSA)** concepts. Whether you’re a beginner or brushing up your DSA skills, this repo provides simple, clear examples to help you learn and practice.
+The goal of this repo is to **build strong logical thinking, clean coding habits, and algorithmic intuition** — the foundation required for **software engineering, backend development, and AI systems**.
+
+> 🔹 This repository complements my real-world AI and full-stack projects by strengthening core problem-solving skills.
 
 ---
 
-## 🚀 About
+## 🎯 Why This Repository Exists
 
-This repository includes implementations of fundamental algorithmic concepts and data structure operations in Python. It is ideal for:
+Many projects focus only on frameworks or AI APIs.
+This repository focuses on **what actually matters underneath**:
 
-* Beginners learning DSA
-* Students preparing for coding interviews
-* Developers refreshing algorithm knowledge
-* Anyone interested in enhancing problem-solving skills
+* Logical thinking
+* Control flow mastery
+* Algorithm execution clarity
+* Code readability and correctness
+
+This repo is ideal for:
+
+* Interview preparation
+* Revising DSA concepts
+* Understanding *how* and *why* algorithms work
+* Building confidence in core programming
 
 ---
 
@@ -21,100 +33,102 @@ This repository includes implementations of fundamental algorithmic concepts and
 
 ```
 Coding_DSA/
+│
 ├── Basic_operations/
-│   ├── <example Python files showcasing basic algorithms and operations>
-│   └── ...
+│   ├── arithmetic_operators/
+│   ├── conditional_operators/
+│   ├── loops/
+│   └── simple_python_programs/
+│
 ├── README.md
 ```
 
-✔️ The `Basic_operations` folder contains Python files that implement core DSA techniques such as:
-
-* Iteration and control structures
-* Searching and sorting
-* Stacks & queues
-* Linked list basics
-* Recursion
-* Simple problem solutions
-
-*(Adjust or update this list based on the actual files you have in your folder.)*
+Each folder contains **clean, beginner-friendly Python programs** with a focus on clarity rather than shortcuts.
 
 ---
 
-## 🧠 What You’ll Learn
+## 🧠 Topics Covered So Far
 
-By exploring the code in this repository, you’ll get hands-on experience with:
+✔️ Programming basics
+✔️ Arithmetic & logical operations
+✔️ Conditional statements
+✔️ Looping constructs
+✔️ Step-by-step problem solving
 
-* Core algorithms (e.g., searching, sorting)
-* Basic data structure behavior
-* Writing clean and modular Python code
-* Understanding algorithm execution flow
-
-This foundation is essential for cracking coding interviews and solving competitive programming problems.
-
----
-
-## 📥 Getting Started
-
-To use this repository locally:
-
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/Unknowncoder3/Coding_DSA.git
-   ```
-
-2. **Navigate to the project directory**
-
-   ```bash
-   cd Coding_DSA
-   ```
-
-3. **Explore the Python files inside `Basic_operations`**
-
-   ```bash
-   cd Basic_operations
-   ls
-   ```
-
-4. **Run any script with Python**
-
-   ```bash
-   python3 filename.py
-   ```
+These topics form the **base layer** required before moving into advanced DSA.
 
 ---
 
-## 💡 How to Contribute
+## 📈 Learning Roadmap (In Progress)
 
-Contributions are welcome! You can help by:
+This repository is actively evolving. Planned additions include:
 
-* Adding more algorithms and data structure implementations
-* Improving existing code and documentation
-* Solving problems from popular DSA challenge lists
-* Fixing bugs and improving code style
-
-To contribute:
-
-1. Fork the repository
-2. Create your feature branch
-3. Add your improvements
-4. Commit and push your changes
-5. Open a Pull Request
-
----
-
-## ⭐ License
-
-This project is open-source and free to use.
+```md
+- [x] Basic operations
+- [x] Conditional statements
+- [x] Loops
+- [ ] Functions & modular programming
+- [ ] Arrays & strings
+- [ ] Time & space complexity basics
+- [ ] Searching algorithms (Linear, Binary)
+- [ ] Sorting algorithms (Bubble, Selection, Insertion)
+- [ ] Recursion fundamentals
+- [ ] Stack & Queue
+- [ ] Hashing & dictionaries
+- [ ] Problem-solving patterns
+```
 
 ---
 
-## 🤝 Connect
+## 🚀 How This Repo Fits My Profile
 
-If you find this repository helpful, give it a ⭐ and share it with others!
+This repository supports my larger projects in:
 
-Happy Coding! 💻✨
+* 🤖 AI systems
+* 🧠 Machine learning
+* 🧩 Backend logic
+* ⚙️ System workflows
+
+Strong fundamentals → Better architecture → Fewer bugs → Better scalability.
 
 ---
 
-[1]: https://github.com/Unknowncoder3/Coding_DSA "GitHub - Unknowncoder3/Coding_DSA"
+## 🛠️ Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Unknowncoder3/Coding_DSA.git
+cd Coding_DSA
+```
+
+Run any file:
+
+```bash
+python filename.py
+```
+
+No external dependencies required.
+
+---
+
+## 🤝 Contributions
+
+Suggestions, improvements, and new problems are welcome.
+Feel free to fork, improve, and submit a pull request.
+
+---
+
+## 👤 Author
+
+**Snehasish Das**
+Final-year CSBS Student | AI & Full-Stack Developer
+
+🔗 GitHub: [https://github.com/Unknowncoder3](https://github.com/Unknowncoder3)
+
+---
+
+⭐ *If you find this repository useful, consider starring it.*
+
+---
+
