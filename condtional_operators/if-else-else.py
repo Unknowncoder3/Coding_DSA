@@ -1,3 +1,4 @@
+#Compare two numbers and print whether they are same, greater or smaller
 n=int(input("Enter a number: "))
 m=int(input("Enter another number: "))
 if n==m:

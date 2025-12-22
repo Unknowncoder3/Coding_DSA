@@ -1,5 +1,6 @@
+#positive-negative program
 n=int(input("Enter a number: "))
-if n%2==0:
-    print("The number is even.")
+if n>0:
+    print(f"{n} is positive .")
 else:
-    print("The number is odd.")
+    print(f"The {n} is negative.")
