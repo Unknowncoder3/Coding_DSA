@@ -7,3 +7,5 @@ for char in str1:
 for char in str2:
     concatenated_string+=char
 print("Concatenated string is:", concatenated_string)
+'''concatenated_string=f"{str1} {str2}"
+print("Concatenated string using f-string is:", concatenated_string)'''
