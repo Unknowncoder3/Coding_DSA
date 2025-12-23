@@ -4,7 +4,3 @@ sublist=mylist[2:5]
 print("Sublist from index 2 to 4:", sublist)
 sublist=mylist[::3]
 print("List with elements at every 3rd index:", sublist)
-sublist=mylist[1::2]
-print("List with elements at odd indices:", sublist)
-sublist=mylist[::2]
-print("List with elements at even indices:", sublist)
