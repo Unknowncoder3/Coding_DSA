@@ -7,3 +7,4 @@ print(s[::2])
 s = "python"
 print(s[1::2])
 # This will print 'yhn', which are the characters at odd indices.
+
