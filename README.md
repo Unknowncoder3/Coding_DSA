@@ -1,134 +1,110 @@
+# 📚 Coding DSA — Programming & Problem-Solving Practice
 
-# 📚 Coding DSA — Core Programming & Problem Solving
-
-Welcome to **Coding DSA** 👋
-This repository documents my **structured practice of programming fundamentals and Data Structures & Algorithms (DSA)** using Python.
-
-The goal of this repo is to **build strong logical thinking, clean coding habits, and algorithmic intuition** — the foundation required for **software engineering, backend development, and AI systems**.
-
-> 🔹 This repository complements my real-world AI and full-stack projects by strengthening core problem-solving skills.
+<p align="center">
+  <b>Structured Python practice for programming fundamentals, algorithms and interview problem solving.</b>
+</p>
 
 ---
 
-## 🎯 Why This Repository Exists
+## 📌 Purpose
 
-Many projects focus only on frameworks or AI APIs.
-This repository focuses on **what actually matters underneath**:
+This repository documents my progression from programming fundamentals toward Data Structures & Algorithms.
 
-* Logical thinking
-* Control flow mastery
-* Algorithm execution clarity
-* Code readability and correctness
+It complements my larger AI, data and software projects by providing evidence of continued practice in **logic, correctness, complexity and problem solving**.
 
-This repo is ideal for:
-
-* Interview preparation
-* Revising DSA concepts
-* Understanding *how* and *why* algorithms work
-* Building confidence in core programming
+This is a learning/practice repository rather than a showcase application.
 
 ---
 
-## 📂 Repository Structure
+## 📂 Current Structure
 
-```
+```text
 Coding_DSA/
-│
 ├── Basic_operations/
 │   ├── arithmetic_operators/
 │   ├── conditional_operators/
 │   ├── loops/
 │   └── simple_python_programs/
-│
-├── README.md
+└── README.md
 ```
 
-Each folder contains **clean, beginner-friendly Python programs** with a focus on clarity rather than shortcuts.
-
 ---
 
-## 🧠 Topics Covered So Far
+## 🧠 Progress
 
-✔️ Programming basics
-✔️ Arithmetic & logical operations
-✔️ Conditional statements
-✔️ Looping constructs
-✔️ Step-by-step problem solving
-
-These topics form the **base layer** required before moving into advanced DSA.
-
----
-
-## 📈 Learning Roadmap (In Progress)
-
-This repository is actively evolving. Planned additions include:
-
-```md
-- [x] Basic operations
+- [x] Programming basics
+- [x] Arithmetic and logical operations
 - [x] Conditional statements
 - [x] Loops
-- [ ] Functions & modular programming
-- [ ] Arrays & strings
-- [ ] Time & space complexity basics
-- [ ] Searching algorithms (Linear, Binary)
-- [ ] Sorting algorithms (Bubble, Selection, Insertion)
-- [ ] Recursion fundamentals
-- [ ] Stack & Queue
-- [ ] Hashing & dictionaries
-- [ ] Problem-solving patterns
-```
+- [ ] Functions and modular programming
+- [ ] Arrays and strings
+- [ ] Time and space complexity
+- [ ] Linear and binary search
+- [ ] Sorting algorithms
+- [ ] Recursion
+- [ ] Stack and queue
+- [ ] Hashing
+- [ ] Trees and graphs
+- [ ] Dynamic programming
 
 ---
 
-## 🚀 How This Repo Fits My Profile
+## 🎯 Learning Goals
 
-This repository supports my larger projects in:
-
-* 🤖 AI systems
-* 🧠 Machine learning
-* 🧩 Backend logic
-* ⚙️ System workflows
-
-Strong fundamentals → Better architecture → Fewer bugs → Better scalability.
+- Write readable and correct code
+- Improve algorithmic thinking
+- Understand time and space complexity
+- Build a consistent problem-solving process
+- Prepare for technical interviews
 
 ---
 
-## 🛠️ Getting Started
-
-Clone the repository:
+## 🚀 Run Locally
 
 ```bash
 git clone https://github.com/Unknowncoder3/Coding_DSA.git
 cd Coding_DSA
-```
-
-Run any file:
-
-```bash
 python filename.py
 ```
 
-No external dependencies required.
+No external dependencies are required for the current basic exercises.
 
 ---
 
-## 🤝 Contributions
+## 💼 Portfolio Role
 
-Suggestions, improvements, and new problems are welcome.
-Feel free to fork, improve, and submit a pull request.
+This repository should be viewed alongside my larger projects in:
 
----
+- Data Analytics
+- Machine Learning
+- Applied AI
+- Backend development
 
-## 👤 Author
-
-**Snehasish Das**
-Final-year CSBS Student | AI & Full-Stack Developer
-
-🔗 GitHub: [https://github.com/Unknowncoder3](https://github.com/Unknowncoder3)
+It demonstrates the programming fundamentals behind those higher-level projects.
 
 ---
 
-⭐ *If you find this repository useful, consider starring it.*
+## 🔮 Next Milestone
+
+The most important next improvement is to move beyond basic syntax and add categorized problems with:
+
+- Problem statement
+- Approach
+- Complexity
+- Implementation
+- Example input/output
+
+That structure will make the repository significantly more useful for interview preparation.
 
 ---
 
+## 👨‍💻 Author
+
+**Snehasish Das** — Data Analyst | Applied AI Developer
+
+- GitHub: https://github.com/Unknowncoder3
+- LinkedIn: https://www.linkedin.com/in/snehasish-das-b75a551b0/
+
+---
+
+⭐ Explore the repository to follow the progression from fundamentals toward DSA.
